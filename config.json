@@ -1,0 +1,15 @@
+{
+  "contexts": [
+    {
+      "name": "dummy",
+      "projects": [
+        {
+          "name": "frontend",
+          "path": "D:/dev/dummy-app",
+          "ide": "C:/Program Files/JetBrains/GoLand 2023.3.4/bin/goland64.exe",
+          "start": "npm start"
+        }
+      ]
+    }
+  ]
+}
